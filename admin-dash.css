@@ -389,6 +389,11 @@
     margin: 1rem auto;
     color: var(--color-primary);
   }
+
+  main .recent-orders .primary:hover{
+    cursor: pointer;
+    color: #5bc500;
+  }
   
   /* ================= RIGHT ================ */
   .right {
